@@ -1,4 +1,3 @@
-
 //Utilize las flechas para mover al triangulo
 let angulo = 0;
 let x = 0;
